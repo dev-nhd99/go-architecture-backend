@@ -1,0 +1,3 @@
+db:
+  dbName: pg_data
+  psn: postgres://postgres:12345612@localhost:5432/pg_data?sslmode=disable
